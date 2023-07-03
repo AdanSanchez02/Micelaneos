@@ -1,0 +1,15 @@
+com\mx\Patito\dao\PedidoDao.class
+com\mx\Patito\service\ImpAuditoria.class
+com\mx\Patito\controller\AuditoWs.class
+com\mx\Patito\dao\CamionetaDao.class
+com\mx\Patito\entidad\Camioneta.class
+com\mx\Patito\controller\PedidoWs.class
+com\mx\Patito\Respuesta\Respuesta.class
+com\mx\Patito\controller\CamionetaWs.class
+com\mx\Patito\service\ImpCamioneta.class
+com\mx\Patito\dao\AuditoriaDao.class
+com\mx\Patito\dto\Asignar.class
+com\mx\Patito\entidad\Auditoria.class
+com\mx\Patito\entidad\Pedido.class
+com\mx\Patito\PatitoApplication.class
+com\mx\Patito\service\ImpPedido.class

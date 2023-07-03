@@ -1,0 +1,26 @@
+<dependency>
+			<groupId>com.oracle</groupId>
+			<artifactId>ojdbc6</artifactId>
+			<version>11.2.0.3</version>
+		</dependency>
+            <dependency>
+			<groupId>com.sun.jersey</groupId>
+			<artifactId>jersey-core</artifactId>
+			<version>1.19</version>
+		</dependency>
+		<dependency>
+			<groupId>com.sun.jersey</groupId>
+			<artifactId>jersey-json</artifactId>
+			<version>1.19</version>
+		</dependency>
+		<dependency>
+			<groupId>com.sun.jersey</groupId>
+			<artifactId>jersey-servlet</artifactId>
+			<version>1.19</version>
+		</dependency>
+
+		<dependency>
+			<groupId>com.thetransactioncompany</groupId>
+			<artifactId>cors-filter</artifactId>
+			<version>2.6</version>
+		</dependency>
